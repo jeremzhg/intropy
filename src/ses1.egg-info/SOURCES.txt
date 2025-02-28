@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/__init__.py
+src/formula.py
+src/ses1.egg-info/PKG-INFO
+src/ses1.egg-info/SOURCES.txt
+src/ses1.egg-info/dependency_links.txt
+src/ses1.egg-info/top_level.txt

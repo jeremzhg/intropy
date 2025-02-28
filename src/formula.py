@@ -11,3 +11,5 @@ class formula:
         return a%b
     def power(a,b):
         return a**b   
+    def halo():
+        return "halo"
