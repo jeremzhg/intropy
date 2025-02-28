@@ -12,4 +12,4 @@ class formula:
     def power(a,b):
         return a**b   
     def halo():
-        return "halo"
+        return "Hello World"
